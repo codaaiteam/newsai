@@ -1,0 +1,97 @@
+.card {
+  max-width: 300px; /* 略微增加最大宽度 */
+  width: 100%; /* 确保卡片在小屏幕上填满可用空间 */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  background-color: var(--container);
+  border-radius: 8px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card > img {
+  width: 100px; /* 设置默认图片大小 */
+  height: 100px;
+  object-fit: contain; /* 保持图片比例 */
+}
+
+.card > h5 {
+  font-size: 17px;
+  color: var(--dark-gray);
+  margin: 0;
+}
+
+.card > h3 {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 0;
+  color: var(--dark);
+}
+
+.card > p {
+  font-size: 16px;
+  text-align: center;
+  color: var(--dark);
+}
+
+@media (max-width: 1200px) {
+  .card {
+    max-width: 250px; /* 在中等屏幕上略微减小最大宽度 */
+  }
+  
+  .card > img {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (max-width: 950px) {
+  .card > img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .card > h5 {
+    font-size: 15px;
+  }
+
+  .card > h3 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .card > p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 540px) {
+  .card {
+    max-width: 100%; /* 在小屏幕上占满整个宽度 */
+  }
+
+  .card > img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .card > h5 {
+    font-size: 13px;
+  }
+
+  .card > h3 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .card > p {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "Leer más",
+    "latestNews": "Últimas noticias",
+    "search": "Buscar",
+    "relatedNews": "Noticias relacionadas",
+    "publishedOn": "Publicado el",
+    "categories": "Categorías",
+    "allCategories": "Todas las categorías",
+    "clickToRate": "Califica este artículo",
+    "ratingStars": "estrellas",
+    "averageRating": "Promedio",
+    "totalVotes": "votos",
+    "moreNews": "Más noticias",
+    "shareArticle": "Comparte este artículo",
+    "copyLink": "Copiar enlace",
+    "readingTime": "lectura mínima",
+    "loading": "Cargando...",
+    "error": {
+      "notFound": "Artículo no encontrado",
+      "loadingFailed": "No se pudo cargar el contenido",
+      "tryAgain": "Por favor, inténtalo de nuevo"
+    },
+    "navigation": {
+      "home": "Inicio",
+      "backToHome": "Volver a Inicio",
+      "previousPage": "Anterior",
+      "nextPage": "Próximo"
+    }
+  },
+  "seo": {
+    "title": "Noticias y actualizaciones sobre tecnología de inteligencia artificial",
+    "description": "Últimas noticias e información sobre inteligencia artificial, tecnología e innovación digital",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "Noticias de IA, noticias de tecnología, inteligencia artificial, innovación digital, actualizaciones tecnológicas"
+  },
+  "categories": {
+    "ai": "Inteligencia artificial",
+    "technology": "Tecnología",
+    "innovation": "Innovación",
+    "research": "Investigación",
+    "development": "Desarrollo",
+    "featured": "Presentado",
+    "trending": "Tendencias",
+    "latest": "El último"
+  },
+  "footer": {
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "privacy": "política de privacidad",
+    "terms": "Condiciones de uso",
+    "copyright": "© 2024 AI News. Todos los derechos reservados."
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "Gran avance en inteligencia artificial: un nuevo modelo muestra una comprensión a nivel humano",
+      "description": "Un nuevo e innovador modelo de IA demuestra capacidades sin precedentes en comprensión del lenguaje natural y capacidad de resolución de problemas.",
+      "content": "Contenido detallado del artículo aquí...",
+      "category": "AI",
+      "tags": [
+        "AI",
+        "Aprendizaje automático",
+        "Tecnología"
+      ],
+      "author": "Equipo de noticias de IA",
+      "readingTime": "5 minutos",
+      "publishDate": "30-03-2024 10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "Avance revolucionario en computación cuántica",
+      "description": "Los científicos logran un hito importante en la estabilidad de la computación cuántica.",
+      "content": "Contenido detallado del artículo aquí...",
+      "category": "Tecnología",
+      "tags": [
+        "Computación cuántica",
+        "Innovación",
+        "Investigación"
+      ],
+      "author": "Equipo de noticias tecnológicas",
+      "readingTime": "4 minutos",
+      "publishDate": "2024-03-29T15:30:00Z"
+    }
+  }
+}

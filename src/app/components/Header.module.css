@@ -1,0 +1,168 @@
+.header {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(10px);
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.headerContent {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+/* 在现有的样式中添加/更新以下内容 */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logoIcon {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+}
+
+.logoText {
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+}
+
+.logoNews {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.logoAI {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #3F51B5;
+}
+
+/* ...其他现有样式保持不变 */
+.logoLink {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+
+.logoAI {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #4fc3f7;
+  letter-spacing: -0.5px;
+}
+
+.navigation {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0 auto;
+}
+
+.navLink {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+.navLink:hover {
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.searchContainer {
+  display: flex;
+  align-items: center;
+}
+
+.searchToggle {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  padding: 0.5rem;
+  display: none;
+}
+
+.searchForm {
+  display: flex;
+  align-items: center;
+}
+
+.searchInput {
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 0.9rem;
+  width: 200px;
+  transition: all 0.3s ease;
+}
+
+.searchInput:focus {
+  outline: none;
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.3);
+  width: 300px;
+}
+
+.searchInput::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 1024px) {
+  .navigation {
+    display: none;
+  }
+  
+  .searchForm {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.9);
+    transform: translateY(-100%);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+  }
+
+  .searchForm.open {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .searchToggle {
+    display: block;
+  }
+
+  .searchInput, .searchInput:focus {
+    width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  .headerContent {
+    padding: 1rem;
+  }
+
+  .logoText, .logoAI {
+    font-size: 1.5rem;
+  }
+}

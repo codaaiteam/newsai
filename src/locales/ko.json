@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "더 읽기",
+    "latestNews": "최신 뉴스",
+    "search": "검색",
+    "relatedNews": "관련 뉴스",
+    "publishedOn": "게시일",
+    "categories": "카테고리",
+    "allCategories": "모든 카테고리",
+    "clickToRate": "이 기사를 평가하세요",
+    "ratingStars": "별",
+    "averageRating": "평균",
+    "totalVotes": "투표",
+    "moreNews": "더 많은 뉴스",
+    "shareArticle": "이 기사를 공유하세요",
+    "copyLink": "링크 복사",
+    "readingTime": "최소 읽기 시간",
+    "loading": "로딩중...",
+    "error": {
+      "notFound": "기사를 찾을 수 없습니다",
+      "loadingFailed": "콘텐츠를 로드하는 데 실패했습니다.",
+      "tryAgain": "다시 시도해주세요"
+    },
+    "navigation": {
+      "home": "홈",
+      "backToHome": "홈으로 돌아가기",
+      "previousPage": "이전의",
+      "nextPage": "다음"
+    }
+  },
+  "seo": {
+    "title": "AI 기술 뉴스 및 업데이트",
+    "description": "인공지능, 기술, 디지털 혁신에 대한 최신 뉴스 및 통찰력",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "AI 뉴스, 기술 뉴스, 인공지능, 디지털 혁신, 기술 업데이트"
+  },
+  "categories": {
+    "ai": "인공지능",
+    "technology": "기술",
+    "innovation": "혁신",
+    "research": "연구",
+    "development": "개발",
+    "featured": "추천",
+    "trending": "트렌드",
+    "latest": "최신"
+  },
+  "footer": {
+    "about": "회사 소개",
+    "contact": "문의하기",
+    "privacy": "개인정보 보호정책",
+    "terms": "이용 약관",
+    "copyright": "© 2024 AI News. 모든 권리 보유."
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "주요 AI 혁신: 새로운 모델이 인간 수준의 이해를 보여줌",
+      "description": "획기적인 새로운 AI 모델은 자연어 이해와 문제 해결 능력 면에서 전례 없는 역량을 보여주었습니다.",
+      "content": "자세한 기사 내용은 여기를 참조하세요...",
+      "category": "일체 포함",
+      "tags": [
+        "일체 포함",
+        "머신러닝",
+        "기술"
+      ],
+      "author": "AI 뉴스팀",
+      "readingTime": "5분",
+      "publishDate": "2024-03-30T10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "혁신적인 양자 컴퓨팅 발전",
+      "description": "과학자들은 양자 컴퓨팅 안정성 측면에서 주요 이정표를 달성했습니다.",
+      "content": "자세한 기사 내용은 여기를 참조하세요...",
+      "category": "기술",
+      "tags": [
+        "양자 컴퓨팅",
+        "혁신",
+        "연구"
+      ],
+      "author": "기술 뉴스 팀",
+      "readingTime": "4분",
+      "publishDate": "2024-03-29T15:30:00Z"
+    }
+  }
+}

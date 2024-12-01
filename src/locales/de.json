@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "Mehr lesen",
+    "latestNews": "Neueste Nachrichten",
+    "search": "Suche",
+    "relatedNews": "Verwandte Nachrichten",
+    "publishedOn": "Veröffentlicht am",
+    "categories": "Kategorien",
+    "allCategories": "Alle Kategorien",
+    "clickToRate": "Bewerten Sie diesen Artikel",
+    "ratingStars": "Sterne",
+    "averageRating": "Durchschnitt",
+    "totalVotes": "Stimmen",
+    "moreNews": "Weitere News",
+    "shareArticle": "Artikel teilen",
+    "copyLink": "Link kopieren",
+    "readingTime": "Min. Lesezeit",
+    "loading": "Laden...",
+    "error": {
+      "notFound": "Artikel nicht gefunden",
+      "loadingFailed": "Inhalt konnte nicht geladen werden",
+      "tryAgain": "Bitte versuchen Sie es erneut"
+    },
+    "navigation": {
+      "home": "Startseite",
+      "backToHome": "Zurück zur Startseite",
+      "previousPage": "Vorherige",
+      "nextPage": "Nächste"
+    }
+  },
+  "seo": {
+    "title": "Neuigkeiten und Updates zur KI-Technologie",
+    "description": "Aktuelle Nachrichten und Erkenntnisse zu künstlicher Intelligenz, Technologie und digitaler Innovation",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "KI-Neuigkeiten, Technologie-Neuigkeiten, künstliche Intelligenz, digitale Innovation, Tech-Updates"
+  },
+  "categories": {
+    "ai": "Künstliche Intelligenz",
+    "technology": "Technologie",
+    "innovation": "Innovation",
+    "research": "Forschung",
+    "development": "Entwicklung",
+    "featured": "Empfohlen",
+    "trending": "Beliebt",
+    "latest": "Letzte"
+  },
+  "footer": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2024 AI News. Alle Rechte vorbehalten."
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "Großer Durchbruch in der KI: Neues Modell zeigt Verständnis auf menschlichem Niveau",
+      "description": "Ein bahnbrechendes neues KI-Modell zeigt beispiellose Fähigkeiten im Verständnis natürlicher Sprache und bei der Problemlösung.",
+      "content": "Detaillierter Artikelinhalt hier...",
+      "category": "KI",
+      "tags": [
+        "KI",
+        "Maschinelles Lernen",
+        "Technologie"
+      ],
+      "author": "KI-Nachrichtenteam",
+      "readingTime": "5 Minuten",
+      "publishDate": "2024-03-30T10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "Revolutionäre Fortschritte im Quantencomputing",
+      "description": "Wissenschaftler erreichen wichtigen Meilenstein in der Stabilität von Quantencomputern.",
+      "content": "Detaillierter Artikelinhalt hier...",
+      "category": "Technologie",
+      "tags": [
+        "Quantencomputing",
+        "Innovation",
+        "Forschung"
+      ],
+      "author": "Tech News Team",
+      "readingTime": "4 Minuten",
+      "publishDate": "29.03.2024, 15:30 Uhr (MESZ)"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "common": {
+    "readMore": "Read More",
+    "latestNews": "Latest News",
+    "search": "Search",
+    "relatedNews": "Related News",
+    "publishedOn": "Published on",
+    "categories": "Categories",
+    "allCategories": "All Categories",
+    "clickToRate": "Rate this article",
+    "ratingStars": "stars",
+    "averageRating": "Average",
+    "totalVotes": "votes",
+    "moreNews": "More News",
+    "shareArticle": "Share this article",
+    "copyLink": "Copy link",
+    "readingTime": "min read",
+    "loading": "Loading...",
+    "error": {
+      "notFound": "Article not found",
+      "loadingFailed": "Failed to load content",
+      "tryAgain": "Please try again"
+    },
+    "navigation": {
+      "home": "Home",
+      "backToHome": "Back to Home",
+      "previousPage": "Previous",
+      "nextPage": "Next"
+    }
+  },
+  
+  "seo": {
+    "title": "AI Technology News and Updates",
+    "description": "Latest news and insights about artificial intelligence, technology, and digital innovation",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "AI news, technology news, artificial intelligence, digital innovation, tech updates"
+  },
+
+  "categories": {
+    "ai": "Artificial Intelligence",
+    "technology": "Technology",
+    "innovation": "Innovation",
+    "research": "Research",
+    "development": "Development",
+    "featured": "Featured",
+    "trending": "Trending",
+    "latest": "Latest"
+  },
+
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "copyright": "© 2024 AI News. All rights reserved."
+  },
+
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "Major AI Breakthrough: New Model Shows Human-Level Understanding",
+      "description": "A groundbreaking new AI model demonstrates unprecedented capabilities in natural language understanding and problem-solving abilities.",
+      "content": "Detailed article content here...",
+      "category": "AI",
+      "tags": ["AI", "Machine Learning", "Technology"],
+      "author": "AI News Team",
+      "readingTime": "5 min",
+      "publishDate": "2024-03-30T10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "Revolutionary Quantum Computing Advancement",
+      "description": "Scientists achieve major milestone in quantum computing stability.",
+      "content": "Detailed article content here...",
+      "category": "Technology",
+      "tags": ["Quantum Computing", "Innovation", "Research"],
+      "author": "Tech News Team",
+      "readingTime": "4 min",
+      "publishDate": "2024-03-29T15:30:00Z"
+    }
+  }
+}

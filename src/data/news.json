@@ -1,0 +1,26 @@
+{
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "Major AI Breakthrough: New Model Shows Human-Level Understanding",
+      "description": "A groundbreaking new AI model demonstrates unprecedented capabilities in natural language understanding and problem-solving abilities.",
+      "content": "<p>Detailed article content here...</p>",
+      "image": "/images/news/ai-breakthrough.jpg",
+      "publishDate": "2024-03-30T10:00:00Z",
+      "category": "AI",
+      "tags": ["AI", "Machine Learning", "Technology"],
+      "author": "AI News Team",
+      "readingTime": "5 min"
+    },
+    "tech-innovation-2024": {
+      "title": "Revolutionary Quantum Computing Advancement",
+      "description": "Scientists achieve major milestone in quantum computing stability.",
+      "content": "<p>Detailed article content here...</p>",
+      "image": "/images/news/quantum-computing.jpg",
+      "publishDate": "2024-03-29T15:30:00Z",
+      "category": "Technology",
+      "tags": ["Quantum Computing", "Innovation", "Research"],
+      "author": "Tech News Team",
+      "readingTime": "4 min"
+    }
+  }
+}

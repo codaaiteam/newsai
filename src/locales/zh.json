@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "阅读更多",
+    "latestNews": "最新消息",
+    "search": "搜索",
+    "relatedNews": "相关新闻",
+    "publishedOn": "发布日期",
+    "categories": "商品分类",
+    "allCategories": "所有类别",
+    "clickToRate": "评价此文章",
+    "ratingStars": "星星",
+    "averageRating": "平均的",
+    "totalVotes": "投票",
+    "moreNews": "更多新闻",
+    "shareArticle": "分享这篇文章",
+    "copyLink": "复制链接",
+    "readingTime": "分钟阅读",
+    "loading": "加载中...",
+    "error": {
+      "notFound": "未找到文章",
+      "loadingFailed": "加载内容失败",
+      "tryAgain": "请重试"
+    },
+    "navigation": {
+      "home": "主页",
+      "backToHome": "返回首页",
+      "previousPage": "以前的",
+      "nextPage": "下一个"
+    }
+  },
+  "seo": {
+    "title": "人工智能技术新闻和更新",
+    "description": "有关人工智能、技术和数字创新的最新消息和见解",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "人工智能新闻、技术新闻、人工智能、数字创新、技术更新"
+  },
+  "categories": {
+    "ai": "人工智能",
+    "technology": "技术",
+    "innovation": "创新",
+    "research": "研究",
+    "development": "发展",
+    "featured": "精选",
+    "trending": "热门内容",
+    "latest": "最新的"
+  },
+  "footer": {
+    "about": "关于我们",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "copyright": "© 2024 AI News。保留所有权利。"
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "人工智能重大突破：新模型展现出人类水平的理解力",
+      "description": "一种突破性的新人工智能模型展示了前所未有的自然语言理解和解决问题的能力。",
+      "content": "详细文章内容在这里...",
+      "category": "人工智能",
+      "tags": [
+        "人工智能",
+        "机器学习",
+        "技术"
+      ],
+      "author": "人工智能新闻团队",
+      "readingTime": "5 分钟",
+      "publishDate": "2024-03-30T10：00：00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "革命性的量子计算进步",
+      "description": "科学家在量子计算稳定性方面取得了重大里程碑。",
+      "content": "详细文章内容在这里...",
+      "category": "技术",
+      "tags": [
+        "量子计算",
+        "创新",
+        "研究"
+      ],
+      "author": "科技新闻团队",
+      "readingTime": "4 分钟",
+      "publishDate": "2024-03-29T15：30：00Z"
+    }
+  }
+}

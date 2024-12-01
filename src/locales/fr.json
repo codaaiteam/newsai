@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "En savoir plus",
+    "latestNews": "Dernières nouvelles",
+    "search": "Rechercher",
+    "relatedNews": "Nouvelles connexes",
+    "publishedOn": "Publié le",
+    "categories": "Catégories",
+    "allCategories": "Toutes les catégories",
+    "clickToRate": "Évaluer cet article",
+    "ratingStars": "étoiles",
+    "averageRating": "Moyenne",
+    "totalVotes": "votes",
+    "moreNews": "Plus d'actualités",
+    "shareArticle": "Partager cet article",
+    "copyLink": "Copier le lien",
+    "readingTime": "min de lecture",
+    "loading": "Chargement...",
+    "error": {
+      "notFound": "Article non trouvé",
+      "loadingFailed": "Impossible de charger le contenu",
+      "tryAgain": "Veuillez réessayer"
+    },
+    "navigation": {
+      "home": "Accueil",
+      "backToHome": "Retour à l'accueil",
+      "previousPage": "Précédent",
+      "nextPage": "Suivant"
+    }
+  },
+  "seo": {
+    "title": "Actualités et mises à jour sur la technologie de l'IA",
+    "description": "Dernières actualités et informations sur l'intelligence artificielle, la technologie et l'innovation numérique",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "Actualités IA, actualités technologiques, intelligence artificielle, innovation numérique, mises à jour technologiques"
+  },
+  "categories": {
+    "ai": "Intelligence artificielle",
+    "technology": "Technologie",
+    "innovation": "Innovation",
+    "research": "Recherche",
+    "development": "Développement",
+    "featured": "En vedette",
+    "trending": "Tendance",
+    "latest": "Dernier"
+  },
+  "footer": {
+    "about": "À propos de nous",
+    "contact": "Contact",
+    "privacy": "politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyright": "© 2024 AI News. Tous droits réservés."
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "Une avancée majeure dans le domaine de l'IA : un nouveau modèle montre une compréhension au niveau humain",
+      "description": "Un nouveau modèle d’IA révolutionnaire démontre des capacités sans précédent en matière de compréhension du langage naturel et de résolution de problèmes.",
+      "content": "Contenu détaillé de l'article ici...",
+      "category": "IA",
+      "tags": [
+        "IA",
+        "Apprentissage automatique",
+        "Technologie"
+      ],
+      "author": "Équipe de presse AI",
+      "readingTime": "5 minutes",
+      "publishDate": "30/03/2024 à 10:00:00"
+    },
+    "tech-innovation-2024": {
+      "title": "Progrès révolutionnaire dans le domaine de l'informatique quantique",
+      "description": "Les scientifiques franchissent une étape majeure dans la stabilité de l’informatique quantique.",
+      "content": "Contenu détaillé de l'article ici...",
+      "category": "Technologie",
+      "tags": [
+        "Informatique quantique",
+        "Innovation",
+        "Recherche"
+      ],
+      "author": "Équipe de nouvelles techniques",
+      "readingTime": "4 minutes",
+      "publishDate": "29/03/2024 à 15:30:00"
+    }
+  }
+}

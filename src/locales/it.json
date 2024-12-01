@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "Per saperne di più",
+    "latestNews": "Ultime notizie",
+    "search": "Cerca",
+    "relatedNews": "Notizie correlate",
+    "publishedOn": "Pubblicato il",
+    "categories": "Categorie",
+    "allCategories": "Tutte le categorie",
+    "clickToRate": "Vota questo articolo",
+    "ratingStars": "stelle",
+    "averageRating": "Media",
+    "totalVotes": "voti",
+    "moreNews": "Altre notizie",
+    "shareArticle": "Condividi questo articolo",
+    "copyLink": "Copia il collegamento",
+    "readingTime": "min di lettura",
+    "loading": "Caricamento...",
+    "error": {
+      "notFound": "Articolo non trovato",
+      "loadingFailed": "Impossibile caricare il contenuto",
+      "tryAgain": "Per favore riprova"
+    },
+    "navigation": {
+      "home": "Home",
+      "backToHome": "Torna alla Home",
+      "previousPage": "Precedente",
+      "nextPage": "Prossimo"
+    }
+  },
+  "seo": {
+    "title": "Notizie e aggiornamenti sulla tecnologia AI",
+    "description": "Ultime notizie e approfondimenti su intelligenza artificiale, tecnologia e innovazione digitale",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "Notizie AI, notizie tecnologiche, intelligenza artificiale, innovazione digitale, aggiornamenti tecnologici"
+  },
+  "categories": {
+    "ai": "Intelligenza artificiale",
+    "technology": "Tecnologia",
+    "innovation": "Innovazione",
+    "research": "Ricerca",
+    "development": "Sviluppo",
+    "featured": "In primo piano",
+    "trending": "Di tendenza",
+    "latest": "Ultimo"
+  },
+  "footer": {
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "privacy": "politica sulla riservatezza",
+    "terms": "Termini di utilizzo",
+    "copyright": "© 2024 AI News. Tutti i diritti riservati."
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "Importante svolta nell'intelligenza artificiale: un nuovo modello mostra una comprensione a livello umano",
+      "description": "Un nuovo modello di intelligenza artificiale rivoluzionario dimostra capacità senza precedenti nella comprensione del linguaggio naturale e nella risoluzione dei problemi.",
+      "content": "Per il contenuto dettagliato dell'articolo clicca qui...",
+      "category": "Intelligenza artificiale",
+      "tags": [
+        "Intelligenza artificiale",
+        "Apprendimento automatico",
+        "Tecnologia"
+      ],
+      "author": "Squadra di notizie AI",
+      "readingTime": "5 minuti",
+      "publishDate": "2024-03-30T10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "Avanzamento rivoluzionario del calcolo quantistico",
+      "description": "Gli scienziati raggiungono un traguardo importante nella stabilità del calcolo quantistico.",
+      "content": "Per il contenuto dettagliato dell'articolo clicca qui...",
+      "category": "Tecnologia",
+      "tags": [
+        "Calcolo quantistico",
+        "Innovazione",
+        "Ricerca"
+      ],
+      "author": "Squadra di notizie tecnologiche",
+      "readingTime": "4 minuti",
+      "publishDate": "2024-03-29T15:30:00Z"
+    }
+  }
+}

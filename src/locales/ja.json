@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "続きを読む",
+    "latestNews": "最新ニュース",
+    "search": "検索",
+    "relatedNews": "関連ニュース",
+    "publishedOn": "公開日",
+    "categories": "カテゴリー",
+    "allCategories": "すべてのカテゴリー",
+    "clickToRate": "この記事を評価する",
+    "ratingStars": "星",
+    "averageRating": "平均",
+    "totalVotes": "投票数",
+    "moreNews": "その他のニュース",
+    "shareArticle": "この記事を共有する",
+    "copyLink": "リンクをコピー",
+    "readingTime": "読むのに要する時間",
+    "loading": "読み込み中...",
+    "error": {
+      "notFound": "記事が見つかりません",
+      "loadingFailed": "コンテンツの読み込みに失敗しました",
+      "tryAgain": "もう一度お試しください"
+    },
+    "navigation": {
+      "home": "ホーム",
+      "backToHome": "ホームに戻る",
+      "previousPage": "前の",
+      "nextPage": "次"
+    }
+  },
+  "seo": {
+    "title": "AIテクノロジーのニュースと最新情報",
+    "description": "人工知能、テクノロジー、デジタルイノベーションに関する最新ニュースと洞察",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "AIニュース、テクノロジーニュース、人工知能、デジタルイノベーション、テクノロジーアップデート"
+  },
+  "categories": {
+    "ai": "人工知能",
+    "technology": "テクノロジー",
+    "innovation": "革新",
+    "research": "研究",
+    "development": "発達",
+    "featured": "特集",
+    "trending": "トレンド",
+    "latest": "最新"
+  },
+  "footer": {
+    "about": "私たちについて",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyright": "© 2024 AI News。無断転載を禁じます。"
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "AIの大きな進歩：新しいモデルが人間レベルの理解力を示す",
+      "description": "画期的な新しい AI モデルは、自然言語理解と問題解決能力において前例のない機能を発揮します。",
+      "content": "詳しい記事内容はこちらをご覧ください...",
+      "category": "人工知能",
+      "tags": [
+        "人工知能",
+        "機械学習",
+        "テクノロジー"
+      ],
+      "author": "AIニュースチーム",
+      "readingTime": "5分",
+      "publishDate": "2024-03-30T10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "革命的な量子コンピューティングの進歩",
+      "description": "科学者たちは量子コンピューティングの安定性において大きなマイルストーンを達成しました。",
+      "content": "詳しい記事内容はこちらをご覧ください...",
+      "category": "テクノロジー",
+      "tags": [
+        "量子コンピューティング",
+        "革新",
+        "研究"
+      ],
+      "author": "テックニュースチーム",
+      "readingTime": "4分",
+      "publishDate": "2024-03-29T15:30:00Z"
+    }
+  }
+}

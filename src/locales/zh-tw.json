@@ -1,0 +1,84 @@
+{
+  "common": {
+    "readMore": "閱讀更多",
+    "latestNews": "最新消息",
+    "search": "搜尋",
+    "relatedNews": "相關新聞",
+    "publishedOn": "發表於",
+    "categories": "商品分類",
+    "allCategories": "所有類別",
+    "clickToRate": "評價這篇文章",
+    "ratingStars": "星星",
+    "averageRating": "平均的",
+    "totalVotes": "投票",
+    "moreNews": "更多新聞",
+    "shareArticle": "分享這篇文章",
+    "copyLink": "複製連結",
+    "readingTime": "最小閱讀量",
+    "loading": "載入中...",
+    "error": {
+      "notFound": "文章未找到",
+      "loadingFailed": "無法載入內容",
+      "tryAgain": "請重試"
+    },
+    "navigation": {
+      "home": "首頁",
+      "backToHome": "回首頁",
+      "previousPage": "以前的",
+      "nextPage": "下一個"
+    }
+  },
+  "seo": {
+    "title": "人工智慧技術新聞和更新",
+    "description": "有關人工智慧、技術和數位創新的最新新聞和見解",
+    "siteUrl": "https://www.ainews.com/",
+    "keywords": "人工智慧新聞、科技新聞、人工智慧、數位創新、科技更新"
+  },
+  "categories": {
+    "ai": "人工智慧",
+    "technology": "科技",
+    "innovation": "創新",
+    "research": "研究",
+    "development": "發展",
+    "featured": "精選",
+    "trending": "流行趨勢",
+    "latest": "最新的"
+  },
+  "footer": {
+    "about": "關於我們",
+    "contact": "聯絡我們",
+    "privacy": "隱私權政策",
+    "terms": "使用條款",
+    "copyright": "© 2024 人工智慧新聞。版權所有。"
+  },
+  "news": {
+    "ai-breakthrough-2024": {
+      "title": "人工智慧重大突破：新模型展現人類水準的理解力",
+      "description": "突破性的新人工智慧模型展示了前所未有的自然語言理解和解決問題的能力。",
+      "content": "詳細文章內容在這裡...",
+      "category": "人工智慧",
+      "tags": [
+        "人工智慧",
+        "機器學習",
+        "科技"
+      ],
+      "author": "人工智慧新聞團隊",
+      "readingTime": "5分鐘",
+      "publishDate": "2024-03-30T10:00:00Z"
+    },
+    "tech-innovation-2024": {
+      "title": "革命性的量子運算進步",
+      "description": "科學家在量子計算穩定性方面取得了重大里程碑。",
+      "content": "詳細文章內容在這裡...",
+      "category": "科技",
+      "tags": [
+        "量子計算",
+        "創新",
+        "研究"
+      ],
+      "author": "科技新聞團隊",
+      "readingTime": "4分鐘",
+      "publishDate": "2024-03-29T15:30:00Z"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 背景 -->
+  <defs>
+    <linearGradient id="iconGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3F51B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#303F9F;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景八边形 -->
+  <path d="M16,2 L25.9,7 L30,16 L25.9,25 L16,30 L6.1,25 L2,16 L6.1,7 Z" fill="url(#iconGradient2)"/>
+  
+  <!-- 抽象化的报纸和芯片组合 -->
+  <g fill="none" stroke="white" stroke-width="1.5">
+    <!-- 芯片形状 -->
+    <rect x="10" y="10" width="12" height="12" rx="1"/>
+    <!-- 内部电路线 -->
+    <line x1="13" y1="13" x2="19" y2="13"/>
+    <line x1="13" y1="16" x2="19" y2="16"/>
+    <line x1="13" y1="19" x2="16" y2="19"/>
+  </g>
+  
+  <!-- 数据流动效果 -->
+  <g fill="white" opacity="0.8">
+    <circle cx="19" cy="19" r="0.8"/>
+    <circle cx="21" cy="19" r="0.8"/>
+  </g>
+</svg>
