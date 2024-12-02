@@ -62,11 +62,11 @@ async function uploadFiles(): Promise<void> {
     }
 
     console.log('\n📄 Uploading games.json...');
-    const gamesJson = readFileSync('src/data/games.json');
+    const newsJson = readFileSync('src/data/news.json');
     await R2.send(new PutObjectCommand({
       Bucket: 'game-assets',
-      Key: 'data/games.json',
-      Body: gamesJson,
+      Key: 'data/news.json',
+      Body: newsJson,
       ContentType: 'application/json'
     }));
 

@@ -16,21 +16,26 @@ export default function Home() {
   const { t, currentLocale } = useTranslations();
   const [latestNews, setLatestNews] = useState([]);
   const [loading, setLoading] = useState(true);
+  console.log("Current translations:", t);
 
-  useEffect(() => {
-    async function loadNews() {
-      try {
-        const news = await getAllNews(t);
-        setLatestNews(news);
-      } catch (error) {
-        console.error('Failed to load news:', error);
-      } finally {
-        setLoading(false);
-      }
+useEffect(() => {
+  async function loadNews() {
+    try {
+      console.log("Loading news with translations:", t);
+      const news = await getAllNews(t);
+      console.log("Loaded news:", news);
+      setLatestNews(news);
+    } catch (error) {
+      console.error('Failed to load news:', error);
+    } finally {
+      setLoading(false);
     }
+  }
 
+  if (t) {
     loadNews();
-  }, [t]);
+  }
+}, [t]);
 
   if (loading) {
     return <div className={styles.loading}>Loading...</div>;
@@ -52,18 +57,24 @@ export default function Home() {
       
       <main className={styles.main}>
         {/* 头条新闻 */}
-        {featuredNews && (
+        {featuredNews ? (
           <section className={styles.featuredNews}>
             <Link href={`/${currentLocale}/news/${featuredNews.id}`}>
               <div className={styles.featuredNewsCard}>
-                <img 
-                  src={featuredNews.image} 
-                  alt={featuredNews.title}
-                  className={styles.featuredImage}
-                />
+                {featuredNews.image && (
+                  <img 
+                    src={featuredNews.image} 
+                    alt={featuredNews.title}
+                    className={styles.featuredImage}
+                    onError={(e) => {
+                      console.log("Image failed to load:", featuredNews.image);
+                      e.target.src = '/placeholder.jpg';
+                    }}
+                  />
+                )}
                 <div className={styles.featuredContent}>
-                  <h1>{featuredNews.title}</h1>
-                  <p>{featuredNews.description}</p>
+                  <h1>{featuredNews.title || 'No Title'}</h1>
+                  <p>{featuredNews.description || 'No Description'}</p>
                   <div className={styles.newsInfo}>
                     <span>{new Date(featuredNews.publishDate).toLocaleDateString()}</span>
                     <span>{featuredNews.readingTime}</span>
@@ -72,8 +83,9 @@ export default function Home() {
               </div>
             </Link>
           </section>
+        ) : (
+          <div className={styles.noFeatured}>No featured news available</div>
         )}
-
         {/* 新闻列表 */}
         <section className={styles.newsSection}>
           <h2>{t?.news?.latestNews || "Latest News"}</h2>

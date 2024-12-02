@@ -13,7 +13,7 @@ const R2 = new S3Client({
 export async function getNewsData() {
   try {
     const response = await R2.send(new GetObjectCommand({
-      Bucket: 'news-assets',
+      Bucket: 'pulseai',
       Key: 'data/news.json'
     }));
     const data = await response.Body?.transformToString();
@@ -27,7 +27,7 @@ export async function getNewsData() {
 export async function getTranslation(locale) {
   try {
     const response = await R2.send(new GetObjectCommand({
-      Bucket: 'news-assets', 
+      Bucket: 'pulseai', 
       Key: `locales/${locale}.json`
     }));
     const data = await response.Body?.transformToString();

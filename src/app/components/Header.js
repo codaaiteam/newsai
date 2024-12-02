@@ -35,16 +35,13 @@ export default function Header() {
         <Link href={`/${currentLang}`} className={styles.logoLink}>
           <div className={styles.logo}>
             <Image
-              src="/icon.svg"
-              alt="NewsAI"
-              width={32}
-              height={32}
-              className={styles.logoIcon}
+              src="/logo.svg"
+              alt="PulseAI"
+              width={150}
+              height={40}
+              priority
+              className={styles.logoFull}
             />
-            <div className={styles.logoText}>
-              <span className={styles.logoNews}>News</span>
-              <span className={styles.logoAI}>AI</span>
-            </div>
           </div>
         </Link>
 

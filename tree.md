@@ -11,13 +11,7 @@
 ├── package-lock.json
 ├── package.json
 ├── public
-│   ├── assets
-│   │   └── games
-│   │       └── banana-sprunkis
-│   ├── controls.svg
-│   ├── discover.svg
-│   ├── fullscreen-icon.svg
-│   ├── game-bg.png
+│   ├── apple-touch-icon.png
 │   ├── grid-size
 │   │   ├── 3-1-grid-1.webp
 │   │   ├── 3-2-grid-1.webp
@@ -25,18 +19,19 @@
 │   │   ├── 3-4-grid.webp
 │   │   ├── 3-5-grid-1.webp
 │   │   └── 3-6-grid.webp
-│   ├── keyboard-mouse-controls.svg
-│   ├── loading.gif
-│   ├── mixer.svg
-│   ├── music-notes.svg
+│   ├── icon.svg
+│   ├── images
+│   │   ├── news
+│   │   │   └── banana-sprunkis
+│   │   └── placeholder-news.jpg
+│   ├── logo.svg
+│   ├── logonew.svg
+│   ├── placeholder.jpg
 │   ├── robots.svg
 │   ├── robots.txt
+│   ├── site.webmanifest
 │   ├── sitemap-0.xml
-│   ├── sitemap.xml
-│   ├── sprunki-logo.svg
-│   ├── sprunki-screenshot.svg
-│   ├── tools.svg
-│   └── usetools.svg
+│   └── sitemap.xml
 ├── scripts
 │   ├── download-images.js
 │   └── upload-to-r2.ts
@@ -104,4 +99,4 @@
 ├── tree.md
 └── tsconfig.json
 
-23 directories, 82 files
+23 directories, 77 files
