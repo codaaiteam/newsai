@@ -30,18 +30,18 @@
   },
   
   "seo": {
-    "title": "AI Technology News and Updates",
-    "description": "Latest news and insights about artificial intelligence, technology, and digital innovation",
-    "siteUrl": "https://www.ainews.com/",
-    "keywords": "AI news, technology news, artificial intelligence, digital innovation, tech updates"
+    "title": "Latest News and Updates - TrendNews",
+    "description": "Stay updated with the latest news, sports updates, and trending stories from around the world",
+    "siteUrl": "https://www.trendnews.com/",
+    "keywords": "trending news, sports news, latest updates, current events"
   },
 
   "categories": {
-    "ai": "Artificial Intelligence",
+    "sports": "Sports",
+    "politics": "Politics",
     "technology": "Technology",
-    "innovation": "Innovation",
-    "research": "Research",
-    "development": "Development",
+    "entertainment": "Entertainment",
+    "business": "Business",
     "featured": "Featured",
     "trending": "Trending",
     "latest": "Latest"
@@ -52,29 +52,104 @@
     "contact": "Contact",
     "privacy": "Privacy Policy",
     "terms": "Terms of Use",
-    "copyright": "© 2024 AI News. All rights reserved."
+    "copyright": "© 2024 TrendNews. All rights reserved."
   },
 
   "news": {
-    "ai-breakthrough-2024": {
-      "title": "Major AI Breakthrough: New Model Shows Human-Level Understanding",
-      "description": "A groundbreaking new AI model demonstrates unprecedented capabilities in natural language understanding and problem-solving abilities.",
-      "content": "Detailed article content here...",
-      "category": "AI",
-      "tags": ["AI", "Machine Learning", "Technology"],
-      "author": "AI News Team",
-      "readingTime": "5 min",
-      "publishDate": "2024-03-30T10:00:00Z"
+    "texas-longhorns-vs-am-2024": {
+      "title": "Texas Longhorns vs Texas A&M: Historic Rivalry Renewed",
+      "description": "Justin Tucker's legacy remembered as Texas Longhorns and Texas A&M face off in their first SEC matchup",
+      "content": "<p>In a highly anticipated matchup that has captivated college football fans across the nation, the Texas Longhorns and Texas A&M Aggies renewed their historic rivalry. The game has brought back memories of legendary Longhorns players, including Justin Tucker, whose clutch performances remain etched in the program's history.</p><p>Quinn Ewers led the Longhorns' offense, while highly-touted freshman Arch Manning, nephew of NFL legends Peyton and Eli Manning, stood ready on the sidelines. The game marked another chapter in the storied Texas football program, which has produced NFL stars like Justin Tucker, currently one of the NFL's most accurate kickers.</p><p>Notable stats from the game included:</p><ul><li>Over 100,000 attendees at the stadium</li><li>First meeting between the teams since joining the SEC</li><li>Quinn Ewers completing key passes</li></ul>",
+      "category": "Sports",
+      "tags": ["College Football", "Texas", "SEC"],
+      "author": "Sports Team",
+      "readingTime": "4",
+      "publishDate": "2024-12-01T16:50:00Z"
     },
-    "tech-innovation-2024": {
-      "title": "Revolutionary Quantum Computing Advancement",
-      "description": "Scientists achieve major milestone in quantum computing stability.",
-      "content": "Detailed article content here...",
-      "category": "Technology",
-      "tags": ["Quantum Computing", "Innovation", "Research"],
-      "author": "Tech News Team",
-      "readingTime": "4 min",
-      "publishDate": "2024-03-29T15:30:00Z"
+    "kash-patel-fbi-2024": {
+      "title": "Kash Patel: Former Trump Official Considered for FBI Role",
+      "description": "Former Trump administration official Kash Patel emerges as potential FBI Director candidate",
+      "content": "<p>In a significant development in Washington, Kash Patel, a former Trump administration official, has emerged as a potential candidate for the position of FBI Director. This news has generated considerable interest and discussion across political circles.</p><p>Patel, known for his previous roles in national security and intelligence positions, has become a focal point of attention as discussions about future FBI leadership continue.</p><p>Key points about Kash Patel:</p><ul><li>Former Chief of Staff to the Acting Secretary of Defense</li><li>Previous experience in national security roles</li><li>Background in intelligence operations</li></ul>",
+      "category": "Politics",
+      "tags": ["FBI", "Politics", "Washington"],
+      "author": "Political Team",
+      "readingTime": "3",
+      "publishDate": "2024-11-30T18:50:00Z"
+    },
+    "trevor-lawrence-injury-2024": {
+      "title": "Trevor Lawrence Injured in Texans vs Jaguars Game",
+      "description": "Jaguars QB Trevor Lawrence carted off after serious hit against Texans",
+      "content": "<p>Jacksonville Jaguars quarterback Trevor Lawrence was carted off the field during today's game against the Houston Texans following a significant hit. The incident occurred in the third quarter of what was a crucial divisional matchup.</p><p>Initial reports suggest Lawrence was evaluated for a concussion after the hit from Texans' linebacker Azeez Al-Shaair. The injury has raised concerns about the Jaguars' playoff hopes as they navigate the final stretch of the season.</p><p>Key developments:</p><ul><li>Lawrence was carted off in the third quarter</li><li>Being evaluated for possible concussion</li><li>Backup quarterback has taken over game duties</li></ul>",
+      "category": "Sports",
+      "tags": ["NFL", "Jaguars", "Injury News"],
+      "author": "Sports Team",
+      "readingTime": "4",
+      "publishDate": "2024-12-01T09:30:00Z"
+    },
+    "eagles-ravens-matchup-2024": {
+      "title": "Eagles Face Ravens in Super Bowl Contender Clash",
+      "description": "Lamar Jackson and Eagles defense headline key inter-conference matchup",
+      "content": "<p>The Philadelphia Eagles and Baltimore Ravens faced off in a highly anticipated matchup between two Super Bowl contenders. Ravens quarterback Lamar Jackson showcased his dynamic playmaking abilities against the Eagles' formidable defense.</p><p>The game featured several key matchups, including the Ravens' rushing attack led by Derrick Henry against the Eagles' front seven. Zay Flowers continued his impressive rookie season for the Ravens.</p><p>Game Highlights:</p><ul><li>Lamar Jackson's dual-threat performance</li><li>Eagles' defensive adjustments</li><li>Key performances by both teams' offensive lines</li></ul>",
+      "category": "Sports",
+      "tags": ["NFL", "Eagles", "Ravens", "Lamar Jackson"],
+      "author": "Sports Team",
+      "readingTime": "3",
+      "publishDate": "2024-12-01T00:30:00Z"
+    },
+
+    "seahawks-jets-nfl-2024": {
+      "title": "Seahawks Host Jets in Week 13 NFL Action",
+      "description": "Geno Smith leads Seahawks against struggling Jets in crucial matchup",
+      "content": "<p>The Seattle Seahawks, led by quarterback Geno Smith, hosted the New York Jets in a Week 13 matchup with playoff implications. Smith, facing his former team, aimed to keep Seattle's playoff hopes alive in the competitive NFC West.</p><p>Rookie running back Zach Charbonnet has emerged as a key player for the Seahawks' offense, while the Jets continue to search for consistency on offense.</p><p>Key Storylines:</p><ul><li>Geno Smith's performance against his former team</li><li>Seahawks' playoff positioning</li><li>Jets' offensive struggles</li><li>Impact of rookie Zach Charbonnet</li></ul>",
+      "category": "Sports",
+      "tags": ["NFL", "Seahawks", "Jets", "Week 13"],
+      "author": "Sports Team",
+      "readingTime": "3",
+      "publishDate": "2024-12-01T10:00:00Z"
+    },
+
+    "cardinals-vikings-nfl-2024": {
+      "title": "Cardinals vs Vikings: NFC Playoff Implications",
+      "description": "Sam Darnold and Cardinals face Vikings in key NFC matchup",
+      "content": "<p>The Arizona Cardinals, with quarterback Sam Darnold at the helm, faced the Minnesota Vikings in a game with significant NFC playoff implications. The Vikings' defense, led by veteran players, looked to contain the Cardinals' offensive threats.</p><p>Kyler Murray's absence continued to impact the Cardinals' offensive strategy, while the Vikings aimed to maintain their position in the NFC North race.</p><p>Game Focus Points:</p><ul><li>Sam Darnold's performance as starter</li><li>Vikings' defensive strategy</li><li>Impact on NFC playoff picture</li><li>Key injuries affecting both teams</li></ul>",
+      "category": "Sports",
+      "tags": ["NFL", "Cardinals", "Vikings", "NFC"],
+      "author": "Sports Team",
+      "readingTime": "3",
+      "publishDate": "2024-12-01T10:00:00Z"
+    },
+
+    "liverpool-man-city-epl-2024": {
+      "title": "Liverpool vs Manchester City: Premier League Title Race",
+      "description": "Pep Guardiola's City face Liverpool in crucial Premier League clash",
+      "content": "<p>Liverpool and Manchester City, two Premier League giants, clashed in a match that could significantly impact the title race. Pep Guardiola's tactical approach faced off against Liverpool's high-intensity style at Anfield.</p><p>Erling Haaland led City's attack, while Liverpool's Cody Gakpo sought to make an impact in this crucial fixture. The match highlighted the ongoing rivalry between two of England's top teams.</p><p>Match Highlights:</p><ul><li>Tactical battle between top managers</li><li>Haaland's goal-scoring form</li><li>Liverpool's home advantage at Anfield</li><li>Impact on Premier League standings</li></ul>",
+      "category": "Sports",
+      "tags": ["Premier League", "Liverpool", "Manchester City", "Soccer"],
+      "author": "Sports Team",
+      "readingTime": "4",
+      "publishDate": "2024-12-01T10:00:00Z"
+    },
+
+    "byu-houston-football-2024": {
+      "title": "BYU Takes on Houston in Conference Matchup",
+      "description": "BYU Cougars face Houston in pivotal conference game",
+      "content": "<p>The BYU Cougars faced the Houston Cougars in a crucial conference matchup that had significant implications for both teams' seasons. BYU's offense, led by key playmakers, looked to establish dominance early in the game.</p><p>Houston's quarterback Zeon Chriss aimed to continue his strong recent form against BYU's defense. The game marked an important milestone in both programs' conference standings.</p><p>Key Elements:</p><ul><li>Conference standings implications</li><li>BYU's offensive strategy</li><li>Houston's defensive adjustments</li><li>Impact players on both sides</li></ul>",
+      "category": "Sports",
+      "tags": ["College Football", "BYU", "Houston", "NCAA"],
+      "author": "Sports Team",
+      "readingTime": "3",
+      "publishDate": "2024-11-30T23:20:00Z"
+    },
+
+    "miami-hurricanes-acc-2024": {
+      "title": "Miami Hurricanes Football: ACC Title Game Preview",
+      "description": "Miami faces Syracuse with ACC championship implications",
+      "content": "<p>The Miami Hurricanes football program prepared for a crucial ACC matchup against Syracuse, with significant conference title implications on the line. Under head coach Mario Cristobal, Miami looked to strengthen their position in the ACC standings.</p><p>The game also marked a significant moment for Syracuse, as they adjusted to recent coaching changes with Fran Brown leading the program.</p><p>Game Preview Points:</p><ul><li>ACC Championship implications</li><li>Miami's offensive strategy</li><li>Syracuse's coaching transition</li><li>Key player matchups</li><li>Impact on bowl game scenarios</li></ul>",
+      "category": "Sports",
+      "tags": ["College Football", "Miami Hurricanes", "ACC", "Syracuse"],
+      "author": "Sports Team",
+      "readingTime": "3",
+      "publishDate": "2024-11-30T18:30:00Z"
     }
   }
 }

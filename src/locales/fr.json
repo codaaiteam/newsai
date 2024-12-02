@@ -29,17 +29,17 @@
     }
   },
   "seo": {
-    "title": "Actualités et mises à jour sur la technologie de l'IA",
-    "description": "Dernières actualités et informations sur l'intelligence artificielle, la technologie et l'innovation numérique",
-    "siteUrl": "https://www.ainews.com/",
-    "keywords": "Actualités IA, actualités technologiques, intelligence artificielle, innovation numérique, mises à jour technologiques"
+    "title": "Dernières nouvelles et mises à jour - TrendNews",
+    "description": "Restez informé des dernières nouvelles, des actualités sportives et des tendances du monde entier",
+    "siteUrl": "https://www.trendnews.com/",
+    "keywords": "actualités tendances, actualités sportives, dernières mises à jour, événements actuels"
   },
   "categories": {
-    "ai": "Intelligence artificielle",
+    "sports": "Sportif",
+    "politics": "Politique",
     "technology": "Technologie",
-    "innovation": "Innovation",
-    "research": "Recherche",
-    "development": "Développement",
+    "entertainment": "Divertissement",
+    "business": "Entreprise",
     "featured": "En vedette",
     "trending": "Tendance",
     "latest": "Dernier"
@@ -49,36 +49,140 @@
     "contact": "Contact",
     "privacy": "politique de confidentialité",
     "terms": "Conditions d'utilisation",
-    "copyright": "© 2024 AI News. Tous droits réservés."
+    "copyright": "© 2024 TrendNews. Tous droits réservés."
   },
   "news": {
-    "ai-breakthrough-2024": {
-      "title": "Une avancée majeure dans le domaine de l'IA : un nouveau modèle montre une compréhension au niveau humain",
-      "description": "Un nouveau modèle d’IA révolutionnaire démontre des capacités sans précédent en matière de compréhension du langage naturel et de résolution de problèmes.",
-      "content": "Contenu détaillé de l'article ici...",
-      "category": "IA",
+    "texas-longhorns-vs-am-2024": {
+      "title": "Texas Longhorns vs Texas A&M : une rivalité historique renouvelée",
+      "description": "L'héritage de Justin Tucker est rappelé alors que les Texas Longhorns et Texas A&M s'affrontent lors de leur premier match SEC",
+      "content": "<p>Lors d'un match très attendu qui a captivé les fans de football universitaire à travers le pays, les Texas Longhorns et les Texas A&M Aggies ont renouvelé leur rivalité historique. Le match a rappelé des souvenirs de joueurs légendaires des Longhorns, notamment Justin Tucker, dont les performances décisives restent gravées dans l'histoire du programme.</p><p>Quinn Ewers a mené l'attaque des Longhorns, tandis que le très apprécié étudiant de première année Arch Manning, neveu des légendes de la NFL Peyton et Eli Manning, se tenait prêt sur le bord du terrain. Le match a marqué un autre chapitre dans l'histoire du programme de football du Texas, qui a produit des stars de la NFL comme Justin Tucker, actuellement l'un des botteurs les plus précis de la NFL.</p><p>Les statistiques notables du match comprenaient :</p><ul><li>Plus de 100 000 spectateurs au stade</li><li>Première rencontre entre les équipes depuis leur adhésion à la SEC</li><li>Quinn Ewers a réussi des passes clés</li></ul>",
+      "category": "Sportif",
       "tags": [
-        "IA",
-        "Apprentissage automatique",
-        "Technologie"
+        "Football universitaire",
+        "Texas",
+        "SECONDE"
       ],
-      "author": "Équipe de presse AI",
-      "readingTime": "5 minutes",
-      "publishDate": "30/03/2024 à 10:00:00"
+      "author": "Équipe sportive",
+      "readingTime": "4",
+      "publishDate": "01/12/2024 à 16:50:00"
     },
-    "tech-innovation-2024": {
-      "title": "Progrès révolutionnaire dans le domaine de l'informatique quantique",
-      "description": "Les scientifiques franchissent une étape majeure dans la stabilité de l’informatique quantique.",
-      "content": "Contenu détaillé de l'article ici...",
-      "category": "Technologie",
+    "kash-patel-fbi-2024": {
+      "title": "Kash Patel : un ancien responsable de Trump envisagé pour un poste au FBI",
+      "description": "Kash Patel, ancien haut fonctionnaire de l'administration Trump, apparaît comme un candidat potentiel au poste de directeur du FBI",
+      "content": "<p>Dans un développement significatif à Washington, Kash Patel, un ancien responsable de l'administration Trump, est apparu comme un candidat potentiel au poste de directeur du FBI. Cette nouvelle a suscité un intérêt et des discussions considérables dans les cercles politiques.</p><p>Patel, connu pour ses rôles précédents dans des postes liés à la sécurité nationale et au renseignement, est devenu un point focal de l'attention alors que les discussions sur le futur leadership du FBI se poursuivent.</p><p>Points clés sur Kash Patel :</p><ul><li>Ancien chef d'état-major du secrétaire à la Défense par intérim</li><li>Expérience antérieure dans des rôles liés à la sécurité nationale</li><li>Expérience dans les opérations de renseignement</li></ul>",
+      "category": "Politique",
       "tags": [
-        "Informatique quantique",
-        "Innovation",
-        "Recherche"
+        "FBI",
+        "Politique",
+        "Washington"
       ],
-      "author": "Équipe de nouvelles techniques",
-      "readingTime": "4 minutes",
-      "publishDate": "29/03/2024 à 15:30:00"
+      "author": "Equipe politique",
+      "readingTime": "3",
+      "publishDate": "30/11/2024 à 18:50:00"
+    },
+    "trevor-lawrence-injury-2024": {
+      "title": "Trevor Lawrence blessé lors du match Texans vs Jaguars",
+      "description": "Trevor Lawrence, QB des Jaguars, a été expulsé après un coup violent contre les Texans",
+      "content": "<p>Le quarterback des Jaguars de Jacksonville, Trevor Lawrence, a été évacué du terrain lors du match d'aujourd'hui contre les Texans de Houston après un coup violent. L'incident s'est produit au troisième quart-temps de ce qui était un match de division crucial.</p><p>Les premiers rapports suggèrent que Lawrence a été évalué pour une commotion cérébrale après le coup du secondeur des Texans Azeez Al-Shaair. La blessure a soulevé des inquiétudes quant aux espoirs des Jaguars en séries éliminatoires alors qu'ils naviguent dans la dernière ligne droite de la saison.</p><p>Évolutions clés :</p><ul><li>Lawrence a été évacué au troisième quart-temps</li><li>Évaluation en cours pour une possible commotion cérébrale</li><li>Le quarterback remplaçant a pris le relais</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "NFL",
+        "Jaguars",
+        "Nouvelles sur les blessures"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "4",
+      "publishDate": "01/12/2024 à 09:30:00"
+    },
+    "eagles-ravens-matchup-2024": {
+      "title": "Les Eagles affrontent les Ravens dans un affrontement entre prétendants au Super Bowl",
+      "description": "Lamar Jackson et la défense des Eagles en tête d'affiche d'un match interconférence clé",
+      "content": "<p>Les Philadelphia Eagles et les Baltimore Ravens se sont affrontés dans un match très attendu entre deux prétendants au Super Bowl. Le quarterback des Ravens, Lamar Jackson, a démontré ses capacités de meneur de jeu dynamique face à la formidable défense des Eagles.</p><p>Le match comprenait plusieurs confrontations clés, notamment l'attaque précipitée des Ravens menée par Derrick Henry contre les sept premiers des Eagles. Zay Flowers a poursuivi son impressionnante saison de recrue pour les Ravens.</p><p>Points forts du match :</p><ul><li>La performance à double menace de Lamar Jackson</li><li>Les ajustements défensifs des Eagles</li><li>Les performances clés des lignes offensives des deux équipes</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "NFL",
+        "Aigles",
+        "Corbeaux",
+        "Lamar Jackson"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "3",
+      "publishDate": "01/12/2024 à 00:30:00"
+    },
+    "seahawks-jets-nfl-2024": {
+      "title": "Les Seahawks accueillent les Jets lors de la 13e semaine de la NFL",
+      "description": "Geno Smith mène les Seahawks face aux Jets en difficulté dans un match crucial",
+      "content": "<p>Les Seahawks de Seattle, menés par le quarterback Geno Smith, ont accueilli les Jets de New York lors d'un match de la semaine 13 avec des implications en séries éliminatoires. Smith, face à son ancienne équipe, avait pour objectif de maintenir les espoirs de Seattle en séries éliminatoires dans la très compétitive NFC West.</p><p>Le running back débutant Zach Charbonnet s'est révélé être un joueur clé de l'attaque des Seahawks, tandis que les Jets continuent de rechercher la régularité en attaque.</p><p>Les principaux points saillants :</p><ul><li>La performance de Geno Smith contre son ancienne équipe</li><li>Le positionnement des Seahawks en séries éliminatoires</li><li>Les difficultés offensives des Jets</li><li>L'impact de la recrue Zach Charbonnet</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "NFL",
+        "Les Seahawks",
+        "Jets",
+        "Semaine 13"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "3",
+      "publishDate": "01/12/2024 à 10:00:00"
+    },
+    "cardinals-vikings-nfl-2024": {
+      "title": "Cardinals contre Vikings : implications pour les éliminatoires de la NFC",
+      "description": "Sam Darnold et les Cardinals affrontent les Vikings dans un match clé de la NFC",
+      "content": "<p>Les Cardinals de l'Arizona, avec le quarterback Sam Darnold à la barre, ont affronté les Vikings du Minnesota dans un match qui avait des implications importantes pour les éliminatoires de la NFC. La défense des Vikings, menée par des joueurs vétérans, a cherché à contenir les menaces offensives des Cardinals.</p><p>L'absence de Kyler Murray a continué d'avoir un impact sur la stratégie offensive des Cardinals, tandis que les Vikings visaient à maintenir leur position dans la course à la NFC North.</p><p>Points clés du match :</p><ul><li>La performance de Sam Darnold en tant que titulaire</li><li>La stratégie défensive des Vikings</li><li>L'impact sur la situation des éliminatoires de la NFC</li><li>Les blessures clés affectant les deux équipes</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "NFL",
+        "Cardinaux",
+        "Vikings",
+        "NFC"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "3",
+      "publishDate": "01/12/2024 à 10:00:00"
+    },
+    "liverpool-man-city-epl-2024": {
+      "title": "Liverpool contre Manchester City : course au titre en Premier League",
+      "description": "Le City de Pep Guardiola affronte Liverpool dans un choc crucial en Premier League",
+      "content": "<p>Liverpool et Manchester City, deux géants de la Premier League, se sont affrontés dans un match qui pourrait avoir un impact significatif sur la course au titre. L'approche tactique de Pep Guardiola a fait face au style très intense de Liverpool à Anfield.</p><p>Erling Haaland a mené l'attaque de City, tandis que Cody Gakpo de Liverpool a cherché à avoir un impact dans ce match crucial. Le match a mis en évidence la rivalité continue entre deux des meilleures équipes d'Angleterre.</p><p>Les moments forts du match :</p><ul><li>Bataille tactique entre les meilleurs managers</li><li>Formation de Haaland en termes de buts</li><li>L'avantage de Liverpool à domicile à Anfield</li><li>Impact sur le classement de la Premier League</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Manchester City",
+        "Football"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "4",
+      "publishDate": "01/12/2024 à 10:00:00"
+    },
+    "byu-houston-football-2024": {
+      "title": "BYU affronte Houston lors d'un match de conférence",
+      "description": "Les Cougars de BYU affrontent Houston lors d'un match de conférence crucial",
+      "content": "<p>Les Cougars de BYU ont affronté les Cougars de Houston dans un match de conférence crucial qui a eu des implications importantes pour les saisons des deux équipes. L'attaque de BYU, menée par des meneurs de jeu clés, a cherché à établir sa domination dès le début du match.</p><p>Le quarterback de Houston, Zeon Chriss, avait pour objectif de poursuivre sa bonne forme récente contre la défense de BYU. Le match a marqué une étape importante dans le classement de conférence des deux programmes.</p><p>Éléments clés :</p><ul><li>Implications sur le classement de conférence</li><li>Stratégie offensive de BYU</li><li>Ajustements défensifs de Houston</li><li>Joueurs d'impact des deux côtés</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "Football universitaire",
+        "Université Brigham Young",
+        "Houston",
+        "NCAA"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "3",
+      "publishDate": "30/11/2024 à 23:20:00"
+    },
+    "miami-hurricanes-acc-2024": {
+      "title": "Miami Hurricanes Football : aperçu du match pour le titre de l'ACC",
+      "description": "Miami affronte Syracuse avec des implications pour le championnat ACC",
+      "content": "<p>Le programme de football des Miami Hurricanes s'est préparé pour un match crucial de l'ACC contre Syracuse, avec des implications importantes pour le titre de conférence en jeu. Sous la direction de l'entraîneur principal Mario Cristobal, Miami cherchait à renforcer sa position au classement de l'ACC.</p><p>Le match a également marqué un moment important pour Syracuse, alors qu'ils s'adaptaient aux récents changements d'entraîneur avec Fran Brown à la tête du programme.</p><p>Points de présentation du match :</p><ul><li>Implications pour le championnat de l'ACC</li><li>Stratégie offensive de Miami</li><li>Transition de l'entraîneur de Syracuse</li><li>Confrontations de joueurs clés</li><li>Impact sur les scénarios de match de bowl</li></ul>",
+      "category": "Sportif",
+      "tags": [
+        "Football universitaire",
+        "Les Hurricanes de Miami",
+        "ACC",
+        "Syracuse"
+      ],
+      "author": "Équipe sportive",
+      "readingTime": "3",
+      "publishDate": "30/11/2024 à 18:30:00"
     }
   }
 }

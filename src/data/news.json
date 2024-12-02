@@ -1,26 +1,104 @@
 {
   "news": {
-    "ai-breakthrough-2024": {
-      "title": "Major AI Breakthrough: New Model Shows Human-Level Understanding",
-      "description": "A groundbreaking new AI model demonstrates unprecedented capabilities in natural language understanding and problem-solving abilities.",
-      "content": "<p>Detailed article content here...</p>",
-      "image": "/images/news/ai-breakthrough.jpg",
-      "publishDate": "2024-03-30T10:00:00Z",
-      "category": "AI",
-      "tags": ["AI", "Machine Learning", "Technology"],
-      "author": "AI News Team",
-      "readingTime": "5 min"
+    "texas-longhorns-vs-am-2024": {
+      "title": "Texas Longhorns vs Texas A&M: Historic Rivalry Renewed",
+      "description": "Justin Tucker's legacy remembered as Texas Longhorns and Texas A&M face off in their first SEC matchup",
+      "category": "Sports",
+      "publishDate": "2024-12-01T16:50:00Z",
+      "readingTime": "4 min",
+      "searchVolume": "1000000+",
+      "trendRank": 1,
+      "slug": "texas-longhorns-vs-am-2024"
     },
-    "tech-innovation-2024": {
-      "title": "Revolutionary Quantum Computing Advancement",
-      "description": "Scientists achieve major milestone in quantum computing stability.",
-      "content": "<p>Detailed article content here...</p>",
-      "image": "/images/news/quantum-computing.jpg",
-      "publishDate": "2024-03-29T15:30:00Z",
-      "category": "Technology",
-      "tags": ["Quantum Computing", "Innovation", "Research"],
-      "author": "Tech News Team",
-      "readingTime": "4 min"
+    "kash-patel-fbi-2024": {
+      "title": "Kash Patel: Former Trump Official Considered for FBI Role",
+      "description": "Former Trump administration official Kash Patel emerges as potential FBI Director candidate",
+      "category": "Politics",
+      "publishDate": "2024-11-30T18:50:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "500000+",
+      "trendRank": 2,
+      "slug": "kash-patel-fbi-2024"
+    },
+    "steelers-bengals-week13-2024": {
+      "title": "Steelers vs Bengals: Week 13 AFC North Showdown",
+      "description": "Key divisional matchup as Steelers face Bengals in crucial Week 13 game",
+      "category": "Sports",
+      "publishDate": "2024-12-01T04:20:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "200000+",
+      "trendRank": 3,
+      "slug": "steelers-bengals-week13-2024"
+    },
+    "trevor-lawrence-injury-2024": {
+      "title": "Trevor Lawrence Injured in Texans vs Jaguars Game",
+      "description": "Jaguars QB Trevor Lawrence carted off after hit in game against Texans",
+      "category": "Sports",
+      "publishDate": "2024-12-01T09:30:00Z",
+      "readingTime": "4 min",
+      "searchVolume": "200000+",
+      "trendRank": 4,
+      "slug": "trevor-lawrence-injury-2024"
+    },
+    "eagles-ravens-matchup-2024": {
+      "title": "Eagles Face Ravens in Super Bowl Contender Clash",
+      "description": "Lamar Jackson and Eagles defense headline key inter-conference matchup",
+      "category": "Sports",
+      "publishDate": "2024-12-01T00:30:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "200000+",
+      "trendRank": 5,
+      "slug": "eagles-ravens-matchup-2024"
+    },
+    "seahawks-jets-nfl-2024": {
+      "title": "Seahawks Host Jets in Week 13 NFL Action",
+      "description": "Geno Smith leads Seahawks against struggling Jets in crucial matchup",
+      "category": "Sports",
+      "publishDate": "2024-12-01T10:00:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "200000+",
+      "trendRank": 6,
+      "slug": "seahawks-jets-nfl-2024"
+    },
+    "cardinals-vikings-nfl-2024": {
+      "title": "Cardinals vs Vikings: NFC Playoff Implications",
+      "description": "Sam Darnold and Cardinals face Vikings in key NFC matchup",
+      "category": "Sports",
+      "publishDate": "2024-12-01T10:00:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "200000+",
+      "trendRank": 7,
+      "slug": "cardinals-vikings-nfl-2024"
+    },
+    "liverpool-man-city-epl-2024": {
+      "title": "Liverpool vs Manchester City: Premier League Title Race",
+      "description": "Pep Guardiola's City face Liverpool in crucial Premier League clash",
+      "category": "Sports",
+      "publishDate": "2024-12-01T10:00:00Z",
+      "readingTime": "4 min",
+      "searchVolume": "200000+",
+      "trendRank": 8,
+      "slug": "liverpool-man-city-epl-2024"
+    },
+    "byu-houston-football-2024": {
+      "title": "BYU Takes on Houston in Conference Matchup",
+      "description": "BYU Cougars face Houston in pivotal conference game",
+      "category": "Sports",
+      "publishDate": "2024-11-30T23:20:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "200000+",
+      "trendRank": 9,
+      "slug": "byu-houston-football-2024"
+    },
+    "miami-hurricanes-acc-2024": {
+      "title": "Miami Hurricanes Football: ACC Title Game Preview",
+      "description": "Miami faces Syracuse with ACC championship implications",
+      "category": "Sports",
+      "publishDate": "2024-11-30T18:30:00Z",
+      "readingTime": "3 min",
+      "searchVolume": "200000+",
+      "trendRank": 10,
+      "slug": "miami-hurricanes-acc-2024"
     }
   }
 }
