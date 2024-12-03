@@ -79,6 +79,7 @@ export default function RootLayout({ children, params }) {
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="google-site-verification" content="EROOYLebq2EHxKvmMtmGO7sY1s8YOdWLqYNyU2JLQLA" />
       </head>
       <body className={inter.className}>
         {children}
