@@ -159,6 +159,26 @@
   color: white;
 }
 
+.externalLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 12px;
+  justify-content: center;
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.externalLinks a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.separator {
+  color: #999;
+  margin: 0 2px;
+}
+
 /* 响应式设计 */
 @media (max-width: 1024px) {
   .featuredContent h1 {
