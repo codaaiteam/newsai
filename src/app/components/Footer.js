@@ -21,6 +21,16 @@ const Footer = () => {
         <a href="https://www.hailuoai.work" target="_blank" rel="noopener noreferrer">Hailuo AI</a>
         <span className={styles.separator}>·</span>
         <a href="https://www.playsprunkiphase4.com" target="_blank" rel="noopener noreferrer">Play Sprungki Phase 4</a>
+        
+        <span>·</span>
+        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
+        Gpt 4o Image Generation
+        </a>
+        <span>·</span>
+        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
+        Gpt 4o Image Generation
+        </a>
+
         <a href="https://www.aireword.win" target="_blank" rel="noopener noreferrer">AI  Reword Tools</a>
    
       </div>
