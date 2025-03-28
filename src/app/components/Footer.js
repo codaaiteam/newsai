@@ -60,6 +60,15 @@ const Footer = () => {
         <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
         Gpt 4o Image Generation
         </a>
+        <span>·</span>
+        <a href="https://www.orpheus-tts.org/" target="_blank" rel="noopener noreferrer">
+        Orpheus TTS
+        </a>
+        <span>·</span>
+        <a href="https://www.ghibligen.org/" target="_blank" rel="noopener noreferrer">
+        Ghibli Gen
+        </a>
+
 
 
 
