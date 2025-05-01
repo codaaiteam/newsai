@@ -68,6 +68,11 @@ const Footer = () => {
         <a href="https://www.ghibligen.org/" target="_blank" rel="noopener noreferrer">
         Ghibli Gen
         </a>
+        <span>·</span>
+        <a href="https://www.beautytestai.com/" target="_blank" rel="noopener noreferrer">
+        Beauty Test AI
+        </a>
+
 
 
 
