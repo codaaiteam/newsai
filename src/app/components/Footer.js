@@ -72,6 +72,15 @@ const Footer = () => {
         <a href="https://www.beautytestai.com/" target="_blank" rel="noopener noreferrer">
         Beauty Test AI
         </a>
+        <span>·</span>
+        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
+        Gpt 4o Image Generation
+        </a>
+        <span>·</span>
+        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
+        Gpt 4o Image Generation
+        </a>
+
 
 
 
