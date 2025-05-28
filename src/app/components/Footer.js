@@ -21,44 +21,20 @@ const Footer = () => {
         <a href="https://www.hailuoai.work" target="_blank" rel="noopener noreferrer">Hailuo AI</a>
         <span className={styles.separator}>·</span>
         <a href="https://www.playsprunkiphase4.com" target="_blank" rel="noopener noreferrer">Play Sprungki Phase 4</a>
-        
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-
-        
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-
+      
         <a href="https://www.aireword.win" target="_blank" rel="noopener noreferrer">AI  Reword Tools</a>
    
-      </div>
         <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
+        <a href="https://www.vo3ai.com" target="_blank" rel="noopener noreferrer">
+        VO3 AI
         </a>
         <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
+        <a href="https://www.orpheus-tts.org/" target="_blank" rel="noopener noreferrer">
+        Orpheus TTS
         </a>
         <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
+        <a href="https://www.ghibligen.org/" target="_blank" rel="noopener noreferrer">
+        Ghibli Gen
         </a>
         <span>·</span>
         <a href="https://www.orpheus-tts.org/" target="_blank" rel="noopener noreferrer">
@@ -72,25 +48,7 @@ const Footer = () => {
         <a href="https://www.beautytestai.com/" target="_blank" rel="noopener noreferrer">
         Beauty Test AI
         </a>
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-        <span>·</span>
-        <a href="https://www.4oimagegeneration.net" target="_blank" rel="noopener noreferrer">
-        Gpt 4o Image Generation
-        </a>
-        <span>·</span>
-        <a href="https://www.vo3ai.com" target="_blank" rel="noopener noreferrer">
-        VO3 AI
-        </a>
-
-
-
-
-
-
-
+        </div>
 
     </footer>
   );
