@@ -49,6 +49,11 @@ const Footer = () => {
         Beauty Test AI
         </a>
         </div>
+        <span>·</span>
+        <a href="https://aibanana.net/" target="_blank" rel="noopener noreferrer">
+        AI Banana
+        </a>
+
 
     </footer>
   );
